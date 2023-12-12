@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b7afe3f-79d6-40a3-bd04-6757b6091856",
+    "Name": "UsrApp_wlsug8x",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_wlsug8x.csproj",
+    "DependsOn": []
+  }
+}

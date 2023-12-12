@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Test Add Page" />
+			<Item Name="LocalizableStrings.addRecord_hepa9b6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_qik8ap0_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

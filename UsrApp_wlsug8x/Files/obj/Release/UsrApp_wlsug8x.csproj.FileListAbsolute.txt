@@ -1,0 +1,9 @@
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\Bin\UsrApp_wlsug8x.dll
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\Bin\UsrApp_wlsug8x.pdb
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.csproj.AssemblyReference.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.GeneratedMSBuildEditorConfig.editorconfig
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.AssemblyInfoInputs.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.AssemblyInfo.cs
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.csproj.CoreCompileInputs.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.dll
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_wlsug8x\Files\obj\Release\UsrApp_wlsug8x.pdb

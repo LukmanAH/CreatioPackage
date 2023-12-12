@@ -1,0 +1,9 @@
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\Bin\LkmnTestApplication.dll
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\Bin\LkmnTestApplication.pdb
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.csproj.AssemblyReference.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.AssemblyInfoInputs.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.AssemblyInfo.cs
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.csproj.CoreCompileInputs.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.dll
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\LkmnTestApplication\Files\obj\Release\LkmnTestApplication.pdb

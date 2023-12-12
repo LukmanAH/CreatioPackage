@@ -1,0 +1,9 @@
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\Bin\DevClassicUI.dll
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\Bin\DevClassicUI.pdb
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.csproj.AssemblyReference.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.AssemblyInfoInputs.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.AssemblyInfo.cs
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.csproj.CoreCompileInputs.cache
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.dll
+C:\lowcode\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.pdb

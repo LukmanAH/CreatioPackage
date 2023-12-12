@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0748a633-40c1-4b93-94f5-5f6de147e3ee",
+    "Name": "LkmnTestExpenses",
+    "ModifiedOnUtc": "\/Date(1702004391000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Test expenses",
+    "DependsOn": []
+  }
+}

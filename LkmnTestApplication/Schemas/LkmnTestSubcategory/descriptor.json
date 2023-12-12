@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d401f14d-3b64-4b8f-99b2-68cf7d45b873",
+    "Name": "LkmnTestSubcategory",
+    "ModifiedOnUtc": "\/Date(1701935083000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "test subcategory",
+    "DependsOn": []
+  }
+}

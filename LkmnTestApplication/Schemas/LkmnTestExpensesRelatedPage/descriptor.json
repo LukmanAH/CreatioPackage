@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a3bb522-f58b-4cdc-ab32-8f8323e622f6",
+    "Name": "LkmnTestExpensesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1702004393000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Test expenses (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "08b2c2a9-ff5f-4cb6-a5d0-f6bdafd135c8",
+    "Name": "LkmnStatus",
+    "ModifiedOnUtc": "\/Date(1701934699000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "test status",
+    "DependsOn": []
+  }
+}

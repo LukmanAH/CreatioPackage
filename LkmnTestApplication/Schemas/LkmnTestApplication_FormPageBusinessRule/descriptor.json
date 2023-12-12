@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "83061bcc-3311-4575-a2a0-cb068439e998",
+    "Name": "LkmnTestApplication_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1702017741000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "test-application form page (Business rules)",
+    "DependsOn": []
+  }
+}

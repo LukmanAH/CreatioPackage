@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.30033e8d-f690-9048-c98e-93b8782efb36.Caption" Value="Hide Sub Category" />
+			<Item Name="AddonConfig.Rules.b021630c-887b-9dc6-9db1-bd30e73d5103.Caption" Value="HideTabExpenses" />
+			<Item Name="Caption" Value="test-application form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

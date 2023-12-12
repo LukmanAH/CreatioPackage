@@ -1,0 +1,146 @@
+= MetaData.Schema.UId "4db6cdb2-a8b4-400f-b8a3-c6837aac186c"
+= MetaData.Schema.A2 "LkmnTestApplication"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "f89d165c-8b92-4bff-bc25-d43717465ef2"
+= MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
+= MetaData.Schema.EG1.A2 "LkmnTestApplicationEventsProcess"
+= MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "23fbcfdc-9bb6-4eef-89ad-ca748e3feff6"
++ MetaData.Schema.D2 {
+  "UId": "23fbcfdc-9bb6-4eef-89ad-ca748e3feff6",
+  "A2": "LkmnName",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E2": 1,
+  "E5": false,
+  "E12": {
+    "FB1": 4,
+    "FB4": "REQ-",
+    "FB5": 4
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "439bd585-26e7-61e5-2e85-aa096fbb2cd5",
+  "A2": "LkmnOwner",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "LkmnOwnerId",
+  "E18": "LkmnOwnerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "33280458-5a0f-de50-9b22-422675243858",
+  "A2": "LkmnApplicant",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
+  "E17": "LkmnApplicantId",
+  "E18": "LkmnApplicantName"
+}
++ MetaData.Schema.D2 {
+  "UId": "a36a1b82-d78a-ca60-7abc-21388009ee42",
+  "A2": "LkmnDescription",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "79bccffa-8c8b-4863-b376-a69d2244182b",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "ce7bd716-39f9-4779-332c-3750d9628869",
+  "A2": "LkmnTotal",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "088d0705-8cd0-1fd4-3253-cb86b057722d",
+  "A2": "LkmnSubcategory",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "d401f14d-3b64-4b8f-99b2-68cf7d45b873",
+  "E6": true,
+  "E20": true,
+  "E17": "LkmnSubcategoryId",
+  "E18": "LkmnSubcategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "7a55d1a9-90fe-b35a-2243-ade2289c0747",
+  "A2": "LkmnCategory",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "c7f6201d-2e4c-43c8-b793-68a99616e812",
+  "E6": true,
+  "E20": true,
+  "E17": "LkmnCategoryId",
+  "E18": "LkmnCategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "34381c0d-54d9-3763-3313-238a00994dca",
+  "A2": "LkmnStatus",
+  "A3": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A4": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+  "A5": "d922d09d-81a9-4c98-b707-31f8da25a857",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "f8c706fe-7e17-444c-baea-fa5910ad8695",
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "7d985e50-dea6-4cf9-8f8f-8015d598fdd5"
+  },
+  "E17": "LkmnStatusId",
+  "E18": "LkmnStatusName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","23fbcfdc-9bb6-4eef-89ad-ca748e3feff6","439bd585-26e7-61e5-2e85-aa096fbb2cd5","33280458-5a0f-de50-9b22-422675243858","a36a1b82-d78a-ca60-7abc-21388009ee42","ce7bd716-39f9-4779-332c-3750d9628869","088d0705-8cd0-1fd4-3253-cb86b057722d","7a55d1a9-90fe-b35a-2243-ade2289c0747","34381c0d-54d9-3763-3313-238a00994dca"]
+= MetaData.Schema.D20.A2 "LkmnTestApplicationEvents"
+= MetaData.Schema.D36.A3 "4db6cdb2-a8b4-400f-b8a3-c6837aac186c"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="test-application" />
+			<Item Name="Columns.LkmnApplicant.Caption" Value="Applicant" />
+			<Item Name="Columns.LkmnCategory.Caption" Value="Category" />
+			<Item Name="Columns.LkmnDescription.Caption" Value="Description" />
+			<Item Name="Columns.LkmnName.Caption" Value="Registration No" />
+			<Item Name="Columns.LkmnOwner.Caption" Value="Owner" />
+			<Item Name="Columns.LkmnStatus.Caption" Value="Status" />
+			<Item Name="Columns.LkmnSubcategory.Caption" Value="Subcategory" />
+			<Item Name="Columns.LkmnTotal.Caption" Value="Total" />
+		</Items>
+	</Group>
+</Resources>

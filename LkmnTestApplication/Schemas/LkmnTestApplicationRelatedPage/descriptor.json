@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7949276e-f391-4d42-b9ce-769063ab8d4e",
+    "Name": "LkmnTestApplicationRelatedPage",
+    "ModifiedOnUtc": "\/Date(1702009750000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "test-application (Page settings)",
+    "DependsOn": []
+  }
+}

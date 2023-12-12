@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "769f3354-242f-40bc-9b17-1174b6d42964",
+    "Name": "LkmnTestExpenseMiniPage",
+    "ModifiedOnUtc": "\/Date(1702004261000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Test Expenses Mini Page",
+    "DependsOn": []
+  }
+}

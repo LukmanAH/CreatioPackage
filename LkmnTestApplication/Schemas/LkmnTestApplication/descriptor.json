@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4db6cdb2-a8b4-400f-b8a3-c6837aac186c",
+    "Name": "LkmnTestApplication",
+    "ModifiedOnUtc": "\/Date(1702009747000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "test-application",
+    "DependsOn": []
+  }
+}

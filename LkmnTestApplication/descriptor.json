@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "f89d165c-8b92-4bff-bc25-d43717465ef2",
+    "Name": "LkmnTestApplication",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/LkmnTestApplication.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

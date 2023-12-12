@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Test expenses" />
+			<Item Name="Columns.LkmnAmount.Caption" Value="Amount" />
+			<Item Name="Columns.LkmnComment.Caption" Value="Comment" />
+			<Item Name="Columns.LkmnImported.Caption" Value="Imported" />
+			<Item Name="Columns.LkmnTest.Caption" Value="Test" />
+			<Item Name="Columns.LkmnType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

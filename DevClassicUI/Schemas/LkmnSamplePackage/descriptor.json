@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "06e54fad-1bcb-41f6-b7c4-418091c2ceaa",
+    "Name": "LkmnSamplePackage",
+    "ModifiedOnUtc": "\/Date(1702374557000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Business process 1",
+    "DependsOn": []
+  }
+}
