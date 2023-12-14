@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "abef995b-6518-42af-a3aa-8278efb23f8a",
+    "Name": "LkmnVwContactAgeDays",
+    "ModifiedOnUtc": "\/Date(1702523181000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact Age in Days",
+    "DependsOn": []
+  }
+}

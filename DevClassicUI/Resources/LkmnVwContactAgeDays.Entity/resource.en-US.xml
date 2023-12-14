@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contact Age in Days" />
+			<Item Name="Columns.LkmnAgeDays.Caption" Value="LkmnAgeDays" />
+			<Item Name="Columns.LkmnBirthDate.Caption" Value="LkmnBirthDate" />
+			<Item Name="Columns.LkmnId.Caption" Value="LkmnId" />
+			<Item Name="Columns.LkmnName.Caption" Value="LkmnName" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

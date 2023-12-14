@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "edb08ccd-d844-24e8-2dcc-41fc4b75eb43",
+    "Name": "LkmnCreateContactAge",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1702521160000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
